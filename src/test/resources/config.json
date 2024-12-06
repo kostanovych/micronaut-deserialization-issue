@@ -1,0 +1,18 @@
+{
+  "common": {
+    "supportedVersions": [
+      {
+        "version": 0,
+        "expirationDate": "2024-12-01T00:00:00.000Z"
+      },
+      {
+        "version": 1,
+        "expirationDate": "2024-12-02T00:00:00.000Z"
+      },
+      {
+        "version": 2,
+        "expirationDate": null
+      }
+    ]
+  }
+}
